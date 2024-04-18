@@ -1,6 +1,25 @@
 {
+  "name": "lintcommit",
+  "version": "1.0.0",
+  "main": "teste.py",
+  "license": "MIT",
+  "scripts":{
+    "commit":"git-cz"
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
   "devDependencies": {
     "@commitlint/cli": "^19.2.2",
-    "@commitlint/config-conventional": "^19.2.2"
+    "@commitlint/config-conventional": "^19.2.2",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^9.0.11"
   }
 }
