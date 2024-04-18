@@ -16,6 +16,9 @@
       "path": "cz-conventional-changelog"
     }
   },
+  "scripts": {
+    "test": "echo 'No tests specified'"
+  },  
   "devDependencies": {
     "@commitlint/cli": "^19.2.2",
     "@commitlint/config-conventional": "^19.2.2",
