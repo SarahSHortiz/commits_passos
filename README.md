@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-aaaaaaaaaaaaaaaaaaaaaaaa
-=======
+
+
 # Estrutura Básica de Um Commit
 ![image](https://github.com/SarahSHortiz/committeste/assets/112779900/8aa63fcf-6cdb-4e1f-b9e8-dffa4a4dd0fb)
 
