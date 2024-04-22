@@ -143,8 +143,5 @@ git config --global user.email "seu email "
 ```
 ```
  git config --global user.name "seu nome de user"                 
-
 ```
 
-
->>>>>>> 5c63aa8c2dd6388895bfe9a6ea7f40c83adc11d5
